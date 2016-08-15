@@ -5,7 +5,7 @@ Edison as a Companion Computer
 ==============================
 
 This page explains how to use an `Intel Edison <http://www.intel.com/content/www/us/en/do-it-yourself/edison.html>`__
-as a companion computer.
+as a companion computer.   
 
 Overview
 ========
